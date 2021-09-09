@@ -50,5 +50,3 @@ client.on('messageCreate', message => {
     message.channel.send('hiv2')
 })
 */
-
-client.login("ODgxNDY2NTkzNjQ3OTIzMjIx.YStPvA.JT3OKMs31bPgDrfQ27GKN8Fg13w")
